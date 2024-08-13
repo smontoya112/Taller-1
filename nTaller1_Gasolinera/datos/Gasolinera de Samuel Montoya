@@ -1,0 +1,13 @@
+tipo:CORRIENTE:13500:200.0
+tipo:ACPM:15000:150.0
+tipo:Extra:18900:100.0
+tipo:DISSEL:13000:200.0
+surtidor:Samuel Montoya:CORRIENTE:0.0:ACPM:0.0:Extra:0.0:DISSEL:0.0
+surtidor:Alejandro Montoya:CORRIENTE:0.0:ACPM:0.0:Extra:0.0:DISSEL:0.0
+surtidor:Samuel Montoya:CORRIENTE:0.0:ACPM:0.0:Extra:0.0:DISSEL:0.0
+surtidor:Juan Sebastian Roa:CORRIENTE:0.0:ACPM:0.0:Extra:0.0:DISSEL:0.0
+empleado:Raul Ruiz:0
+empleado:Alejandro Montoya:0
+empleado:Juan Pablo Rivera:0
+empleado:Juan Sebastian Roa:0
+empleado:Samuel Montoya:0
